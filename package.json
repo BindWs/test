@@ -1,0 +1,11 @@
+{
+  "name": "github-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "node handler.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
