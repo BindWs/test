@@ -1,1 +1,3 @@
-console.log('hello, world12');
+console.log('hello, world13');
+
+throw 'Unhandled exception';
